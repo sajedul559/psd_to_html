@@ -1,0 +1,25 @@
+
+@media(max-width: 768px){
+
+/* ---- Menu Start----*/
+
+	.toggle{
+		display: block;
+	}
+	.toggle:hover{
+		cursor: pointer;
+	}
+	ul{
+		width:100%;
+		display:none ;
+		background: darkgray;
+	}
+	ul li{
+		display: block;
+		text-align: center;
+	}
+	.active{
+		display: block;
+	}
+
+	
